@@ -1,0 +1,7 @@
+Version 09/02/2016
+--Updated index.html
+--Added faq.html
+--Added signup.html
+--Added FAQ image
+--Added References.txt
+--Added Changelog.txt
